@@ -1,4 +1,4 @@
-## Medición y Síntesis de Frecuencia
+## Medición y Síntesis de Frecuencias de hasta 200Hz
 
 El proyecto consiste en poder analizar la frecuencia de diferentes formas de onda (sinusoidal, triangular,
 cuadrada) y en base al cálculo de la frecuencia medida poder luego generar una señal sinusoidal de la misma
