@@ -4,9 +4,11 @@ El proyecto consiste en poder analizar la frecuencia de diferentes formas de ond
 cuadrada) y en base al cálculo de la frecuencia medida poder luego generar una señal sinusoidal de la misma
 frecuencia. El proyecto se dividió en dos partes, la medición de la frecuencia de entrada y la síntesis de la
 sinusoide.
+
 Se realizó el programa en C utilizando un microcontrolador ATmega328p y se utilizaron los siguientes periféricos: módulos Timer0 y Timer2 (para generar un PWM), el módulo
 UART para poder pasar los datos por el puerto serie, el módulo del conversor ADC para analizar los datos
 de la señal de entrada, e interrupciones.
+
 Dentro de la carpeta 'Documentación' se encuentra la explicación detallada del proyecto.
 
 ### Resultados
